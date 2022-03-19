@@ -1,2 +1,2 @@
 # LearningJava
-All codes I write while learning Angular, new commit = new Lesson.
+All codes I write while learning Java, new commit = new Lesson.
